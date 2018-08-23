@@ -8,7 +8,7 @@
                             http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!-- bean管理支持注解 -->
-    <context:component-scan base-package="name.liuxi.service"/>
+    <context:component-scan base-package="org.quickstart.spring.data.elasticsearch"/>
 
     <!-- Spring data 自动扫描repository接口，生成实现类 -->
     <elasticsearch:repositories base-package="name.liuxi.es" />

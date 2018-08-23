@@ -10,6 +10,8 @@ import java.io.Serializable;
  * Created by bysocket on 03/05/2017.
  */
 @Document(indexName = "cityindex", type = "city")
+//indexName索引名称 可以理解为数据库名 必须为小写 不然会报org.elasticsearch.indices.InvalidIndexNameException异常
+//type类型 可以理解为表名
 public class City implements Serializable {
 
     private static final long serialVersionUID = -1L;
