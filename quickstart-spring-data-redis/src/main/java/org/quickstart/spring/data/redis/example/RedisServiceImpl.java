@@ -3,7 +3,7 @@
  * 文件名：RedisServiceImpl.java
  * 版本信息：
  * 日期：2017年11月27日
- * Copyright asiainfo Corporation 2017
+ * Copyright yangzl Corporation 2017
  * 版权所有 *
  */
 package org.quickstart.spring.data.redis.example;
@@ -22,7 +22,7 @@ import org.springframework.stereotype.Service;
 /**
  * RedisServiceImpl
  * 
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2017年11月27日 上午11:46:05
  * @since 1.0
  */

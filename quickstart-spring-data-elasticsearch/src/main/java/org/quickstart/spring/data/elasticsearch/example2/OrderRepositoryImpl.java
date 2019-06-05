@@ -3,7 +3,7 @@
  * 文件名：OrderRepositoryImpl.java
  * 版本信息：
  * 日期：2017年11月30日
- * Copyright asiainfo Corporation 2017
+ * Copyright yangzl Corporation 2017
  * 版权所有 *
  */
 package org.quickstart.spring.data.elasticsearch.example2;
@@ -13,7 +13,7 @@ import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
 /**
  * OrderRepositoryImpl 
  *  http://blog.csdn.net/liuxigiant/article/details/52105024
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2017年11月30日 下午10:17:28 
  * @since 1.0
  */

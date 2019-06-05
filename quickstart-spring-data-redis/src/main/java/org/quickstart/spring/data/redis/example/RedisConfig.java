@@ -3,7 +3,7 @@
  * 文件名：RedisConfig.java
  * 版本信息：
  * 日期：2017年11月27日
- * Copyright asiainfo Corporation 2017
+ * Copyright yangzl Corporation 2017
  * 版权所有 *
  */
 package org.quickstart.spring.data.redis.example;
@@ -28,7 +28,7 @@ import redis.clients.jedis.JedisPoolConfig;
 /**
  * RedisConfig
  * 
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2017年11月27日 上午10:14:54
  * @since 1.0
  */

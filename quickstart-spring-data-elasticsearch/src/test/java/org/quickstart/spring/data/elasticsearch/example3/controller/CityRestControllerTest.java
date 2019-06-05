@@ -3,7 +3,7 @@
  * 文件名：CityRestControllerTest.java
  * 版本信息：
  * 日期：2017年12月2日
- * Copyright asiainfo Corporation 2017
+ * Copyright yangzl Corporation 2017
  * 版权所有 *
  */
 package org.quickstart.spring.data.elasticsearch.example3.controller;
@@ -24,7 +24,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * CityRestControllerTest
  * 
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2017年12月2日 上午10:45:07
  * @since 1.0
  */
